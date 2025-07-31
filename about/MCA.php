@@ -31,7 +31,7 @@ require "../includes/head.php";
             <span class="name">
 Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
 Charlotte Cohick, <a href="micah.php">Micah Cruz</a>, Jayla Delgado, 
-Nate Frey,
+<a href="frey.php">Nate Frey,</a>
 <a href="wesley.php">Wesley Groff,</a>  
 <a href='evan.php'>Evan Harner</a>, 
 <a href='devin.php'>Devin Hershey</a>, 
