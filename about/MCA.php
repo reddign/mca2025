@@ -42,7 +42,6 @@ Brayden Jones,
 <a href='benson.php'>Benson Liu,</a>
 <a href="Oliver.php">Oliver Merrell</a>, 
 <a href='beckett.php'>Beckett Mann,</a>
-Oliver Merrell, 
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
 <a href="Orlando.php">Orlando Santiago</a>
