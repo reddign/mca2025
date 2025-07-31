@@ -29,7 +29,7 @@ require "../includes/head.php";
         <div class="section" id="team-names">
             <!-- <span class="name">From Left to Right: </span>  -->
             <span class="name">
-Nathan Andemichael,Ethan Byrne,Britney Castillo-Huitzil, Sharon Chen, 
+Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
 Charlotte Cohick, Micah Cruz, Jayla Delgado, 
 Nate Frey,
 Wesley Groff,  
