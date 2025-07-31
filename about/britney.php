@@ -1,5 +1,5 @@
 <?php
-$pageName = "Nathan Andemichael's Webpage";
+$pageName = "Britney Castillo's Webpage";
 require "../includes/functions.php";
 require "../includes/head.php";
 
@@ -14,10 +14,10 @@ require "../includes/head.php";
     </div>
         
     <main>
-        <section id="Nathan Andemichael's Bio">
-            <div class="bio-title">Nathan Andemichael</div>
+        <section id="Britney CAstillo's Bio">
+            <div class="bio-title">Britney Castillo</div>
             <br>
-            <div id="bio"> Nathan is a student of Momentum Coding Academy and has no interest in computer science.
+            <div id="bio"> Britney Castillo is an incoming junior at JP Mccaskey.
         </section>
     </main>
 </body>
