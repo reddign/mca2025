@@ -51,7 +51,7 @@ Daniel Spooner,
 Luca Suliveras, 
 Abdullah Sultan,
 Abdullah Tanis, 
-Jace Witmer, 
+<a href='witmer.php'>Jace Witmer, </a>
  <a href='student_template.php'>Jane Doe</a>
             </span>
         </div>
