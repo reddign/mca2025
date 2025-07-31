@@ -39,7 +39,7 @@ Brayden Jones,
 <a href="nathan_lama.php">Nathan Lama,</a>
 <a href="cooper.php">Cooper Lehman,</a> 
 <a href='Ryan.php'>Ryan Lefever,</a>
-Benson Liu, 
+<a href='benson.php'>Benson Liu,</a>
 <a href="Oliver.php">Oliver Merrell</a>, 
 <a href='beckett.php'>Beckett Mann,</a>
 Oliver Merrell, 
