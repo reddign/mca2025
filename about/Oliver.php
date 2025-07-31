@@ -15,7 +15,7 @@ require "../includes/head.php";
         
     <main>
         <section id="Jane Doe's Bio">
-            <div class="bio-title">Jane Doe</div>
+            <div class="bio-title">Oliver Merrell</div>
             <br>
             <div id="bio"> Oliver is a student in this class. He is a senior at McCaskey HS.
                 He doesn't know what he wants to major or minor in, or what college he wants to go to, but he 
