@@ -15,8 +15,8 @@ require "../includes/head.php";
     </div>
         
     <main>
-        <section id="Jane Doe's Bio">
-            <div class="bio-title">Jane Doe</div>
+        <section id="Nathan Lama's Bio">
+            <div class="bio-title">Nathan Lama</div>
             <br>
             <div id="bio"> Nathan Lama is a student in this class. He is a rising junior at PMHS.
                 He is currently studying Biology and Chemistry, but also takes interest in coding. He intends to enroll in a college.
