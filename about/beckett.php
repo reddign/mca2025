@@ -17,9 +17,8 @@ require "../includes/head.php";
         <section id="Beckett's Bio">
             <div class="bio-title">Beckett</div>
             <br>
-            <div id="bio"> Beckett is not a student in this class. If she was she might be a junior or senior at Somewhere HS.
-                She might be thinking about majoring in Computer Science, with a concentration in Web and Application 
-                Design, plus a minor in Graphic Design, and intends to graduate in 2030 or 2031 from Xtown College or University.
+            <div id="bio"> Beckett is a student in this class. He is a junior at Donegal HS.
+                He is very happy to be a part of MCA and is having a lot of fun.
         </section>
     </main>
 </body>
