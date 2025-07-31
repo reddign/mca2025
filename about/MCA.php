@@ -34,7 +34,7 @@ Charlotte Cohick, Micah Cruz, Jayla Delgado,
 Nate Frey,
 <a href="wesley.php">Wesley Groff,</a>  
 <a href='evan.php'>Evan Harner</a>, 
-Devin Hershey,
+<a href='devin.php'>Devin Hershey</a>, 
 Brayden Jones,
 <a href="nathan_lama.php">Nathan Lama,</a>
 <a href="cooper.php">Cooper Lehman,</a> 
