@@ -15,7 +15,7 @@ require "../includes/head.php";
         
     <main>
         <section id="Charlotte's Bio">
-            <div class="bio-title">Jane Doe</div>
+            <div class="bio-title">Charlotte</div>
             <br>
             <div id="bio"> CHarlotte is an upcoming junior at Penn Manor Highschool. She is planning to major in forensic 
                 anthropology and graduate in 2031 from The University of Tennesse. 
