@@ -40,7 +40,7 @@ Nathan Lama,
 Cooper Lehman, 
 Ryan Lefever, 
 Benson Liu, 
-Beckett Mann, 
+<a href='beckett.php'>Beckett Mann</a>,
 Oliver Merrell, 
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
