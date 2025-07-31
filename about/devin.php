@@ -15,7 +15,7 @@ require "../includes/head.php";
         
     <main>
         <section id="Devin's Bio">
-            <div class="bio-title">Jane Doe</div>
+            <div class="bio-title">Devin Hershey</div>
             <br>
             <div id="bio"> Hey all, Devin here! I have been asked across many years to make bios about myself, 
                 and I rarely know what to write in them.

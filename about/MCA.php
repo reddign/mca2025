@@ -30,25 +30,24 @@ require "../includes/head.php";
             <!-- <span class="name">From Left to Right: </span>  -->
             <span class="name">
 Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
-Charlotte Cohick, Micah Cruz, Jayla Delgado, 
+Charlotte Cohick, <a href="micah.php">Micah Cruz</a>, Jayla Delgado, 
 Nate Frey,
-Wesley Groff,  
+<a href="wesley.php">Wesley Groff,</a>  
 <a href='evan.php'>Evan Harner</a>, 
-Devin Hershey,
+<a href='devin.php'>Devin Hershey</a>, 
 Brayden Jones,
 <a href="nathan_lama.php">Nathan Lama,</a>
-Cooper Lehman, 
+<a href="cooper.php">Cooper Lehman,</a> 
 <a href='Ryan.php'>Ryan Lefever,</a>
-Benson Liu, 
-Beckett Mann, 
+<a href='benson.php'>Benson Liu,</a>
 <a href="Oliver.php">Oliver Merrell</a>, 
 <a href='beckett.php'>Beckett Mann,</a>
 Oliver Merrell, 
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
-Orlando Santiago, 
+<a href="Orlando.php">Orlando Santiago</a>
 Brian Shore, 
-Henry Sokra, 
+<a href="Henry.php">Henry Sokra,</a> 
 <a href='daniel.php'>Daniel Spooner,</a>
 Luca Suliveras, 
 Abdullah Sultan,
