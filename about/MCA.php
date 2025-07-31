@@ -36,7 +36,7 @@ Wesley Groff,
 <a href='evan.php'>Evan Harner</a>, 
 Devin Hershey,
 Brayden Jones,
-Nathan Lama, 
+<a href="nathan_lama.php">Nathan Lama,</a>
 Cooper Lehman, 
 Ryan Lefever, 
 Benson Liu, 
