@@ -30,7 +30,7 @@ require "../includes/head.php";
             <!-- <span class="name">From Left to Right: </span>  -->
             <span class="name">
 Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
-Charlotte Cohick, Micah Cruz, Jayla Delgado, 
+Charlotte Cohick, <a href="micah.php">Micah Cruz</a>, Jayla Delgado, 
 Nate Frey,
 <a href="wesley.php">Wesley Groff,</a>  
 <a href='evan.php'>Evan Harner</a>, 
