@@ -40,7 +40,6 @@ Brayden Jones,
 Cooper Lehman, 
 <a href='Ryan.php'>Ryan Lefever,</a>
 Benson Liu, 
-Beckett Mann, 
 <a href="Oliver.php">Oliver Merrell</a>, 
 <a href='beckett.php'>Beckett Mann,</a>
 Oliver Merrell, 
