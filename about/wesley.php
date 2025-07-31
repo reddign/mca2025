@@ -17,7 +17,7 @@ require "../includes/head.php";
         <section id="Wesley Groff's Bio">
             <div class="bio-title">Wesley Groff</div>
             <br>
-            <div id="bio"> Wesley Groff is a student for Momentum Coding Academy 2025.
+            <div id="bio"> Wesley Groff is a student at Momentum Coding Academy 2025.
         </section>
     </main>
 </body>
