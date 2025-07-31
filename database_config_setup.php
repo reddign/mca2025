@@ -2,6 +2,9 @@
 /*
 *******************************************************************
 * You should copy this file and rename it as database_config.php
+* Be sure that you do not put real credentials in any local file 
+* unless you are sure it is in the .gitignore file.
+* You do not want to place your DB creds on a public repo.
 *******************************************************************
 */
 if($_SERVER['HTTP_HOST']=="127.0.0.1"){
