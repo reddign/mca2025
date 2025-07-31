@@ -37,7 +37,7 @@ Wesley Groff,
 Devin Hershey,
 Brayden Jones,
 <a href="nathan_lama.php">Nathan Lama,</a>
-Cooper Lehman, 
+<a href="cooper.php">Cooper Lehman,</a> 
 <a href='Ryan.php'>Ryan Lefever,</a>
 Benson Liu, 
 <a href="Oliver.php">Oliver Merrell</a>, 
