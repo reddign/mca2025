@@ -45,7 +45,7 @@ Brayden Jones,
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
 <a href="Orlando.php">Orlando Santiago</a>
-Brian Shore, 
+<a href="brian.php">Brian Shore</a>
 <a href="Henry.php">Henry Sokra,</a> 
 <a href='daniel.php'>Daniel Spooner,</a>
 Luca Suliveras, 
