@@ -1,5 +1,5 @@
 <?php
-$pageName = "Jane Doe's Webpage";
+$pageName = "Orlando Santiago's Webpage";
 require "../includes/functions.php";
 require "../includes/head.php";
 
@@ -14,7 +14,7 @@ require "../includes/head.php";
     </div>
         
     <main>
-        <section id="Jane Doe's Bio">
+        <section id="Orlando Santiago's Bio">
             <div class="bio-title">Orlando Santiago</div>
             <br>
             <div id="bio"> I'm a rising senior attending MCA and coming from McCaskey.I'm thinking about majoring in Computer Science, with a concentration in Web and Application 
