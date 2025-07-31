@@ -32,7 +32,7 @@ require "../includes/head.php";
 Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
 Charlotte Cohick, Micah Cruz, Jayla Delgado, 
 Nate Frey,
-Wesley Groff,  
+<a href="wesley.php">Wesley Groff,</a>  
 <a href='evan.php'>Evan Harner</a>, 
 Devin Hershey,
 Brayden Jones,
