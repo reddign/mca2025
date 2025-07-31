@@ -50,7 +50,7 @@ Selena Monk,
 <a href='daniel.php'>Daniel Spooner,</a>
 Luca Suliveras, 
 Abdullah Sultan,
-Abdullah Tanis, 
+<a href='abdullah.php'>Abdullah Tanis</a>, 
 <a href='witmer.php'>Jace Witmer, </a>
  <a href='student_template.php'>Jane Doe</a>
             </span>
