@@ -47,7 +47,7 @@ Selena Monk,
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
 Orlando Santiago, 
 Brian Shore, 
-Henry Sokra, 
+<a href="Henry.php">Henry Sokra,</a> 
 <a href='daniel.php'>Daniel Spooner,</a>
 Luca Suliveras, 
 Abdullah Sultan,
