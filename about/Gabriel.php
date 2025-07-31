@@ -15,7 +15,7 @@ require "../includes/head.php";
         
     <main>
         <section id="Gabriel Perkins's Bio">
-            <div class="bio-title">Gabriel</div>
+            <div class="bio-title">Gabriel Perkins</div>
             <br>
             <div id="bio"> Gabriel Perkins is a student in this class. He is a junior at Penn Manor HS.
                 He is thinking about majoring in Computer Science, with a concentration in game 
