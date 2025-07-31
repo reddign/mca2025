@@ -29,18 +29,20 @@ require "../includes/head.php";
         <div class="section" id="team-names">
             <!-- <span class="name">From Left to Right: </span>  -->
             <span class="name">
-Nathan Andemichael,Ethan Byrne,Britney Castillo-Huitzil, Sharon Chen, 
+Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
 Charlotte Cohick, Micah Cruz, Jayla Delgado, 
 Nate Frey,
 Wesley Groff,  
 <a href='evan.php'>Evan Harner</a>, 
 Devin Hershey,
 Brayden Jones,
-Nathan Lama, 
+<a href="nathan_lama.php">Nathan Lama,</a>
 Cooper Lehman, 
-Ryan Lefever, 
+<a href='Ryan.php'>Ryan Lefever,</a>
 Benson Liu, 
-<a href='beckett.php'>Beckett Mann</a>,
+Beckett Mann, 
+<a href="Oliver.php">Oliver Merrell</a>, 
+<a href='beckett.php'>Beckett Mann,</a>
 Oliver Merrell, 
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
