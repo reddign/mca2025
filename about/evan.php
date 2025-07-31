@@ -14,7 +14,7 @@ require "../includes/head.php";
     </div>
         
     <main>
-        <section id="Jane Doe's Bio">
+        <section id="Evan Harner's Bio">
             <div class="bio-title">Evan Harner</div>
             <br>
             <div id="bio"> Evan is a student at Conestoga Valley High School. He enjoys STEM classes at school and has been involved in several
