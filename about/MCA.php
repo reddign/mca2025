@@ -45,7 +45,7 @@ Benson Liu,
 Oliver Merrell, 
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
-Orlando Santiago, 
+<a href="Orlando.php">Orlando Santiago</a>
 Brian Shore, 
 <a href="Henry.php">Henry Sokra,</a> 
 <a href='daniel.php'>Daniel Spooner,</a>
