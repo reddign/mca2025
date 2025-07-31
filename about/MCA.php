@@ -43,7 +43,7 @@ Benson Liu,
 Beckett Mann, 
 Oliver Merrell, 
 Selena Monk, 
-Gabriel Perkins, 
+<a href='Gabriel.php'>Gabriel Perkins,</a> 
 Orlando Santiago, 
 Brian Shore, 
 Henry Sokra, 
