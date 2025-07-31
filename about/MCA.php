@@ -40,13 +40,7 @@ Nathan Lama,
 Cooper Lehman, 
 Ryan Lefever, 
 Benson Liu, 
-<a href='beckett.php'>Beckett Mann,</a>
-            </span>
-        </div>
-    </div>
-	<?php
-    require "../includes/footer.php";
-    ?>
+Beckett Mann, 
 Oliver Merrell, 
 Selena Monk, 
 Gabriel Perkins, 
