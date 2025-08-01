@@ -17,7 +17,7 @@ require "../includes/head.php";
         <section id="Brian Shore's Bio">
             <div class="bio-title">Jane Doe</div>
             <br>
-            <div id="bio"> I am a current student in the Momentum Coding Academy.
+            <div id="bio"> I am a current student in the Momentum Coding Academy. 😂
         </section>
     </main>
 </body>

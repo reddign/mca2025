@@ -31,7 +31,7 @@ require "../includes/head.php";
             <span class="name">
 Nathan Andemichael,<a href='byrne.php'>Ethan Byrne</a>,Britney Castillo-Huitzil, Sharon Chen, 
 Charlotte Cohick, <a href="micah.php">Micah Cruz</a>, Jayla Delgado, 
-Nate Frey,
+<a href="frey.php">Nate Frey,</a>
 <a href="wesley.php">Wesley Groff,</a>  
 <a href='evan.php'>Evan Harner</a>, 
 <a href='devin.php'>Devin Hershey</a>, 
@@ -42,16 +42,15 @@ Brayden Jones,
 <a href='benson.php'>Benson Liu,</a>
 <a href="Oliver.php">Oliver Merrell</a>, 
 <a href='beckett.php'>Beckett Mann,</a>
-Oliver Merrell, 
 Selena Monk, 
 <a href='Gabriel.php'>Gabriel Perkins,</a> 
 <a href="Orlando.php">Orlando Santiago</a>
-Brian Shore, 
+<a href="brian.php">Brian Shore</a>
 <a href="Henry.php">Henry Sokra,</a> 
 <a href='daniel.php'>Daniel Spooner,</a>
 Luca Suliveras, 
 Abdullah Sultan,
-Abdullah Tanis, 
+<a href='abdullah.php'>Abdullah Tanis</a>, 
 <a href='witmer.php'>Jace Witmer, </a>
  <a href='student_template.php'>Jane Doe</a>
             </span>
